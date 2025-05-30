@@ -1,12 +1,12 @@
 # 🌼 CS Flowers
 **Turn-Based 2D Strategy Game (C Language)**
 
-## 🧠 Overview
+## Overview
 **CS Flowers** is a turn-based strategy game developed in C where you play as a lone warrior equipped with giant scissors. Your mission: stop the invasion of mutant flowers taking over the UNSW campus. Using strategic movement, precise cutting, and environmental awareness, you must outwit and outlast the evolving floral threat.
 
 ---
 
-## 🕹️ Game Phases
+## Game Phases
 
 ### Setup Phase
 - **Spawn Player**: Choose a valid edge tile as your starting position.
@@ -49,7 +49,7 @@ Each turn follows this structure:
 
 ---
 
-## 🎮 Controls Summary
+## Controls Summary
 | Command | Action |
 |---------|--------|
 | `w`, `a`, `s`, `d` | Move up, left, down, right |
